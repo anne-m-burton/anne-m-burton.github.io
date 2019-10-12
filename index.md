@@ -19,17 +19,16 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
-            Anne M. Burton<br/>
-            Email: amb622@cornell.edu<br/>
-            Twitter: @anne_m_burton<br/>
-        </div>
-
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Anne M. Burton" alt="Anne M. Burton"/></a>
         </div>
+        <div class="span5">
+            Anne M. Burton<br/>
+            Email: amb622@cornell.edu<br/>
+            Twitter: @anne_m_burton<br/>
+        </div>       
     </div>
 </div>
 
