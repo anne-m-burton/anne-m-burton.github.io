@@ -40,6 +40,8 @@ keywords: Ph.D. candidate, health economics, public economics, economics of crim
 <p><br/>I am a fifth-year Ph.D. candidate in the Department of Economics at Cornell University. I study topics in health economics, public economics, and economics of crime. My research is primarily concerned with the social welfare implications of risky health behaviors and crime.
 
 Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analysis section at the Federal Reserve Board of Governors in Washington, D.C. from 2012-2015. I graduated from Colby College in Waterville, Maine in 2012 with a B.A. in Economics and Government. <br/></p>
+  </div>
+</div>
 
 <div class="navbar">
   <div class="navbar-inner">
