@@ -2,7 +2,7 @@
 layout: frontpage
 title: Anne M. Burton
 description: Anne M. Burton is a Ph.D. candidate in Economics at Cornell University. 
-keywords: Ph.D. candidate, health economics, public economics, economics of crime
+keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne M. Burton economics, Anne Burton Cornell, Anne M. Burton Cornell, Ph.D. candidate, health economics, public economics, economics of crime
 ---
 
 <!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
