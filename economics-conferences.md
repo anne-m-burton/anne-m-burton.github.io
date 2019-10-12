@@ -19,7 +19,10 @@
     <li><a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit?usp=sharing">Economics Conferences spreadsheet</a></li>
     <br/>
     <br/>
-    If you have any suggestions or notice an error or omission, feel free to email me at amb622@cornell.edu
+    If you have any suggestions or notice an error or omission, feel free to email me at
+    <br/>
+    <br/>
+    amb622@cornell.edu
 
   </div>
 </div>
