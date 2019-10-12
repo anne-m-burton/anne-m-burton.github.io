@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5 {
     min-height:40px;
     padding-left:20px;
     padding-right:20px;
-    background-color:#b31b1b;
+    background-color:#fafafa;
     background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
     background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
@@ -108,3 +108,32 @@ h1, h2, h3, h4, h5 {
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
     *zoom:1;
 }
+
+/* Change nav and header text color */
+.navbar .brand {
+   color: #f7f7f7;
+   text-shadow: none;
+}
+.navbar-text {
+   color:#f7f7f7;
+}
+.navbar-link {
+   color:#f7f7f7;
+}
+.navbar-link:hover {
+   color:#f7f7f7;
+}
+/*Change color of your website name in navigation bar
+.navbar .brand {
+   color: #ffffff;
+   text-shadow: none;
+}*/
+/*Change color of the links in the navigation bar:*/
+.navbar .nav>li>a {
+   color: #ffffff;
+   text-shadow: none;
+}
+
+/*I THNK one of these will change the color of a link in the navbar when you hover over it*/
+.navbar .nav>li>a:focus,.navbar .nav>li>a:hover{background-color:transparent;color:#ffffff;text-decoration:none;}
+.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#ffffff;text-decoration:none;background-color:#e5e5e5;-webkit-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);-moz-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);}
