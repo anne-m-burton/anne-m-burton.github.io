@@ -13,7 +13,7 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
 
 
 ---
-
+<body>  
 <div class="container">
 <h4><a name="contact"></a><!--contact--></h4>
 
@@ -46,3 +46,13 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
       </ul>
   </div>
 </div>
+
+</div>
+</div>
+
+</div>
+<hr>
+<span id="lastModified"></span>
+</div>
+
+</body>
