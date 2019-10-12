@@ -1,7 +1,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="List of economics conferences that Barton Willage and I maintain">
+    <meta name="description" content="List of economics conferences">
   
   </head>
 
@@ -13,7 +13,7 @@
 
 <div class="row-fluid">
   <div class="span12">
-    Here is the link to the list of economics conferences that Barton Willage and I maintain
+    Here is the link to the list of economics conferences that Barton Willage and I maintain:
     <br/>
     <br/>
     <li><a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit?usp=sharing">Economics Conferences spreadsheet</a></li>
