@@ -26,8 +26,10 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
         </div>
         <div class="span5">
             <b><font size="+2">Anne M. Burton</font></b><br/>
+            <br/>
             Ph.D. Candidate in Economics<br/>
             Cornell University<br/>
+            <br/>
             Email: amb622@cornell.edu<br/>
             Twitter: @anne_m_burton<br/>
         </div>       
