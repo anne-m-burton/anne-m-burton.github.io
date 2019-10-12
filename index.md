@@ -12,7 +12,7 @@ keywords: Ph.D. candidate, health economics, public economics, economics of crim
 
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="span8">
     <hr/>
 
 <div class="container">
