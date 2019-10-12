@@ -16,7 +16,7 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a><!--contact--></h4>
 
     <div class="row-fluid">
         <div class="span2">
@@ -26,6 +26,8 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
         </div>
         <div class="span5">
             Anne M. Burton<br/>
+            Ph.D. Candidate, Cornell University<br/>
+            Department of Economics | Department of Policy Analysis and Management<br/>
             Email: amb622@cornell.edu<br/>
             Twitter: @anne_m_burton<br/>
         </div>       
