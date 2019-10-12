@@ -14,6 +14,14 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
 
 ---
 <body>  
+
+<div class="container-narrow">
+  <div class="content">
+
+<div class="row-fluid">
+  <div class="span12">
+    <hr />
+
 <div class="container">
 <h4><a name="contact"></a><!--contact--></h4>
 
@@ -32,9 +40,11 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
             <div id="hide_email">
             Email: amb622@cornell.edu<br/>
             Twitter: @anne_m_burton<br/>
+            </div>
         </div> 
     </div>
 </div>
+
 
 
 <div class="navbar">
@@ -47,8 +57,12 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
   </div>
 </div>
 
+  </div>
+</div>
+
 </div>
 <hr>
 <span id="lastModified"></span>
 
+</div>
 </body>
