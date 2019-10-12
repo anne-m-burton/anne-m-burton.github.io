@@ -48,11 +48,7 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
 </div>
 
 </div>
-</div>
-
-</div>
 <hr>
 <span id="lastModified"></span>
-</div>
 
 </body>
