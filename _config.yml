@@ -16,6 +16,9 @@ author :
   twitter : anne_m_burton
 
 production_url : http://anne-m-burton.github.io
+url: "https://annemburton.com" # the base hostname and protocol for my site
+plugins:
+    - jekyll-sitemap
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -81,7 +84,8 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics :
-    provider : false
+    provider : google_analytics
+    google_analytics: "UA-133166871-1"
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
