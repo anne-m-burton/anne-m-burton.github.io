@@ -111,6 +111,10 @@ h1, h2, h3, h4, h5 {
 
 /* Change nav and header text color */
 .navbar .brand {
+   color: #f7f7f7;
+   text-shadow: none;
+}
+.navbar .brand:hover {
    color: #222222;
    text-shadow: none;
 }
