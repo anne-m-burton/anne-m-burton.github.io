@@ -16,7 +16,7 @@ a {
 
 a:hover {
     color: #222222;
-    background-color: #222222;
+    background-color: #f7f7f7;
     text-decoration: none;
 }
 
@@ -25,10 +25,10 @@ a img {
 }
 
 a:hover img {
-    color: darkslateblue;
-    background-color: #e3e4fa;
+    color: #222222;
+    background-color: #f7f7f7;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
+    border: solid 2px #f7f7f7;
 }
 
 p.center {
@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5 {
    color:#f7f7f7;
 }
 .navbar-link:hover {
-   color:#f7f7f7;
+   color:#222222;
 }
 /*Change color of your website name in navigation bar
 .navbar .brand {
