@@ -56,7 +56,7 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/anne-m-burton">GitHub</a></li>
           <li><a href="https://twitter.com/anne_m_burton">Twitter (@anne_m_burton)</a></li>
-          <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">"How I Use EconTwitter'" slides</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">"How I Use EconTwitter" slides</a></li>
       </ul>
   </div>
 </div>
