@@ -42,10 +42,10 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
 </div>
 
 <br/>
-I am a fifth-year Ph.D. candidate in the \href{https://economics.cornell.edu/}{Department of Economics at Cornell University}. I study topics in health economics, public economics, and economics of crime. My research is primarily concerned with the social welfare implications of risky health behaviors and crime.
+I am a fifth-year Ph.D. candidate in the  <a href="https://economics.cornell.edu/">Department of Economics at Cornell University</a>. I study topics in health economics, public economics, and economics of crime. My research is primarily concerned with the social welfare implications of risky health behaviors and crime.
 <br/>
 <br/>
-Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analysis section at the \href{https://www.federalreserve.gov/}{Federal Reserve Board of Governors} in Washington, D.C. from 2012-2015. I graduated from \href{https://www.colby.edu/econ/}{Colby College} in Waterville, Maine in 2012 with a B.A. in Economics and Government.
+Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/"Federal Reserve Board of Governors</a> in Washington, D.C. from 2012-2015. I graduated from <a href="https://www.colby.edu/econ/"Colby College</a> in Waterville, Maine in 2012 with a B.A. in Economics and Government.
 <br/>
 <br/>
 <br/>
@@ -56,7 +56,7 @@ Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analys
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/anne-m-burton">GitHub</a></li>
           <li><a href="https://twitter.com/anne_m_burton">Twitter (@anne_m_burton)</a></li>
-          <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">``How I Use EconTwitter'' slides</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">"How I Use EconTwitter'" slides</a></li>
       </ul>
   </div>
 </div>
