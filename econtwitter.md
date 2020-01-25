@@ -1,7 +1,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="description" content=""How I Use EconTwitter" slides">
+    <meta name="description" content="How I Use EconTwitter slides">
   
   </head>
 
