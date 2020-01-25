@@ -35,7 +35,7 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
             <br/>
             <div id="hide_email">
             Email: amb622@cornell.edu<br/>
-            Twitter: @anne_m_burton<br/>
+            Twitter: <a href="https://twitter.com/anne_m_burton">@anne_m_burton</a><br/>
             </div>
         </div> 
     </div>
