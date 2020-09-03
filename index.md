@@ -22,7 +22,7 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
 <h4><a name="contact"></a><!--contact--></h4>
 
     <div class="row-fluid">
-        <div class="span2">
+        <div class="span4">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Anne M. Burton" alt="Anne M. Burton"/></a>
