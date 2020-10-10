@@ -59,18 +59,16 @@ I am currently on the job market and I expect to graduate in 2021. I am availabl
 
 <div class="navbar">
   <div class="navbar-inner">
-    <div class="span20">
       <ul class="nav">
           <li><a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a></li>
           <li><a href="https://github.com/anne-m-burton">GitHub</a></li>
-          <li><a href="https://twitter.com/anne_m_burton">Twitter (@anne_m_burton)</a></li>
+          <li><a href="https://twitter.com/anne_m_burton">Twitter</a></li>
           <li><a href="{{ BASE_PATH }}/assets/burton_econtwitter_slides.pdf">"How I Use EconTwitter" slides</a></li>
       </ul>
   </div>
 </div>
 
   </div>
-</div>
 </div>
 
 </div>
