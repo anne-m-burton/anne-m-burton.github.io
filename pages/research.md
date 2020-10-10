@@ -17,6 +17,8 @@ description: Anne M. Burton's research
 
 #### Ban the Box and Cross-Border Spillovers
 
+with David Wasser
+
 <strong> Abstract: </strong>
 
 Ban-the-box (BTB) policies prevent employers from asking job applicants about their criminal history until very late in the hiring process. The intent of these policies is to help individuals with criminal records find employment by reducing the stigma associated with arrest or conviction. However, such a policy could induce employers to statistically discriminate on the basis of observable characteristics, such as race, if employers believe that certain racial groups are more likely to have a criminal history. This paper studies whether labor market effects spill over into jurisdictions bordering those with BTB policies. Using the 2005-2014 waves of the American Community Survey and a difference-in-differences method, we find that annual earnings for employed, young, non-college-educated black men increase by 9.5 percent following the implementation of BTB in neighboring labor markets. Earnings for young, non-college-educated Hispanic and white men are flat. The effects for black men do not appear to be driven by changes in the composition of the sample of employed workers.
