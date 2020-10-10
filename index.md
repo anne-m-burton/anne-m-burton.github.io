@@ -15,7 +15,7 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
   <div class="content">
 
 <div class="row-fluid">
-  <div class="span14">
+  <div class="span12">
     <!--<hr />-->
 
 <div class="container">
