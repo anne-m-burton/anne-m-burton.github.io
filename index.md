@@ -59,7 +59,7 @@ I am currently on the job market and I expect to graduate in 2021. I am availabl
 
 <div class="navbar">
   <div class="navbar-inner">
-    <div class="span14">
+    <div class="span20">
       <ul class="nav">
           <li><a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a></li>
           <li><a href="https://github.com/anne-m-burton">GitHub</a></li>
@@ -70,6 +70,7 @@ I am currently on the job market and I expect to graduate in 2021. I am availabl
 </div>
 
   </div>
+</div>
 </div>
 
 </div>
