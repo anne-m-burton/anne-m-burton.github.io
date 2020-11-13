@@ -4,9 +4,9 @@ title: Research
 description: Anne M. Burton's research
 ---
 
-#### The Impact of Smoking Bans in Bars and Restaurants on Alcohol Consumption, Smoking, and Alcohol-Related Externalities
+#### [The Impact of Smoking Bans in Bars and Restaurants on Alcohol Consumption, Smoking, and Alcohol-Related Externalities](https://annemburton.com/pages/working_papers/Burton_JMP.pdf)
 
-##### Job Market Paper (draft available soon)
+##### Job Market Paper
 
 <strong> Abstract: </strong> Smoking bans in bars and restaurants are one example of the many ways in which governments intervene to correct market failures such as externalities. These bans also represent a change in a non-price determinant of demand for alcohol consumed at bars, which could affect total alcohol consumption. This paper studies the effects of smoking bans on the amount and location of alcohol consumption, smoking, and alcohol-related externalities. I use a difference-in-differences method that exploits variation in the effective dates of smoking bans in bars and restaurants across cities, counties, and states. For individuals who drink, smoking bans result in an average increase in alcohol consumption of 1 drink per month. Occasional smokers drink an additional 2 drinks per month and former smokers drink 1 additional drink per month. These increases are entirely driven by changes in bar and restaurant alcohol consumption. Smoking bans have essentially no effect on extensive-margin smoking or violent crimes. They do, however, lead to a 4% increase in fatal drunk-driving crashes in areas with a high prevalence of smoking. Taken together, these results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption and drunk driving, making their net effect on social welfare ambiguous. 
 
