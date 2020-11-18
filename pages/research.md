@@ -15,7 +15,7 @@ description: Anne M. Burton's research
 <br/>
 
 
-#### Ban the Box and Cross-Border Spillovers
+#### [Ban the Box and Cross-Border Spillovers](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB_paper.pdf)
 
 with [David Wasser](https://www.davidnwasser.com/)
 
@@ -26,7 +26,7 @@ with [David Wasser](https://www.davidnwasser.com/)
 <br/>
 
 
-#### Do Uber and Lyft Reduce Drunk-Driving Fatalities?
+#### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/Burton_drunk_driving_paper.pdf)
 
 <strong> Abstract: </strong> This paper investigates whether Uber and Lyft lead to reductions in drunk driving, as measured by city-level drunk-driver-related motor vehicle fatalities and fatal crashes. I use a difference-in-differences method that exploits the variation in the timing of Uber and Lyft entry for the 100 most populous U.S. cities. Using monthly city-level Fatality Analysis Reporting System (FARS) data for 2006 to 2016, I find that Lyft and Uber lead to a statistically significant reduction in nighttime drunk-driver-related fatal motor vehicle incidents. This effect appears to be driven by reductions in incidents several years after the entry of Uber or Lyft into a city, consistent with a lagged adoption of this new transportation technology by riders.
 
