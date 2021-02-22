@@ -52,7 +52,7 @@ I am a Ph.D. candidate in the  <a href="https://economics.cornell.edu/">Departme
 Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/">Federal Reserve Board of Governors</a> in Washington, D.C. from 2012-2015. I graduated from <a href="https://www.colby.edu/">Colby College</a> in Waterville, Maine in 2012 with a B.A. in <a href="https://www.colby.edu/econ/">Economics</a> and <a href="http://www.colby.edu/government/">Government</a>.
 <br/>
 <br/>
-I am on the 2020-2021 job market and I expect to graduate in 2021. I am available for interviews virtually.
+I will be an Assistant Professor of Economics at the <a href="https://epps.utdallas.edu/">University of Texas at Dallas</a> starting in fall 2021.
 <br/>
 <br/>
 <br/>
