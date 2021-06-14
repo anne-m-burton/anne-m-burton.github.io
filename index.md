@@ -48,7 +48,7 @@ I will be an Assistant Professor of Economics in the <a href="https://epps.utdal
 I am also interested in efforts to diversify the economics profession, make the field of economics more inclusive, and reduce information asymmetries around opportunities for professional development. At Cornell, I co-organized a discussion on women in economics in the spring of 2018. I also co-organized the Speaking Economics symposium in 2019. In the fall of 2019, I co-founded <a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a> to formalize continuing efforts at fostering diversity at Cornell and in the profession. To help reduce information asymmetries in the profession, I co-created (with <a href="http://bartonwillage.com/">Barton Willage</a>) a <a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit#gid=720648348">list of economics conferences</a> with dates, deadlines, etc. I've also compiled a tutorial of sorts on <a href="https://annemburton.com/assets/burton_econtwitter_slides.pdf">How I Use EconTwitter</a>.
 <br/>
 <br/>
--->
+
 Prior to graduate school, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/">Federal Reserve Board of Governors</a> in Washington, D.C. from 2012-2015. I graduated from <a href="https://www.colby.edu/">Colby College</a> in Waterville, Maine in 2012 with a B.A. in <a href="https://www.colby.edu/econ/">Economics</a> and <a href="http://www.colby.edu/government/">Government</a>.
 <br/>
 <br/>
