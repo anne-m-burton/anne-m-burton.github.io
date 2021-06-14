@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Anne M. Burton
-description: Anne M. Burton is a Ph.D. candidate in Economics at Cornell University. 
-keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne M. Burton economics, Anne Burton Cornell, Anne M. Burton Cornell, Ph.D. candidate, health economics, public economics, economics of crime
+description: Anne M. Burton is an Assistant Professor of Economics at The University of Texas at Dallas. 
+keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne M. Burton economics, Anne Burton Cornell, Anne M. Burton Cornell, Ph.D., Assistant Professor, Anne Burton UT Dallas, Anne Burton EPPS, Anne M. Burton UT Dallas, Anne M. Burton EPPS, health economics, public economics, economics of crime
 ---
 
 <!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
@@ -30,11 +30,11 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
         <div class="span5">
             <b><font size="+2">Anne M. Burton</font></b><br/>
             <br/>
-            Ph.D. Candidate in Economics<br/>
-            Cornell University<br/>
+            Assistant Professor of Economics<br/>
+            The University of Texas at Dallas<br/>
             <br/>
             <div id="hide_email">
-            Email: amb622@cornell.edu<br/>
+            Email: anne.burton@utdallas.edu<br/>
             Twitter: <a href="https://twitter.com/anne_m_burton">@anne_m_burton</a><br/>
             </div>
         </div> 
@@ -42,17 +42,17 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
 </div>
 
 <br/>
-I am a Ph.D. candidate in the  <a href="https://economics.cornell.edu/">Department of Economics</a> at Cornell University. I am also affiliated with the  <a href="http://www.human.cornell.edu/pam">Department of Policy Analysis and Management</a>. My research is primarily concerned with the social welfare implications of risky health behaviors and crime, which means my work lies at the intersection of health economics, public economics, and the economics of crime.
+I will be an Assistant Professor of Economics in the <a href="https://epps.utdallas.edu/">School of Economic, Political and Policy Sciences</a> at the <a href="https://utdallas.edu/">University of Texas at Dallas</a> starting in fall 2021. I received my Ph.D. in Economics from the <a href="https://economics.cornell.edu/">Department of Economics</a> at Cornell University in 2021. I was also affiliated with the  <a href="http://www.human.cornell.edu/pam">Department of Policy Analysis and Management</a>. My research is primarily concerned with the spillover effects of risky health behaviors and crime, which means my work lies at the intersection of health economics, public economics, and the economics of crime.
 <br/>
 <br/>
-<!--I am also interested in efforts to diversify the economics profession, make the field of economics more inclusive, and reduce information asymmetries around opportunities for professional development. At Cornell, I co-organized a discussion on women in economics in the spring of 2018. I also co-organized the Speaking Economics symposium in 2019. In the fall of 2019, I co-founded <a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a> to formalize continuing efforts at fostering diversity at Cornell and in the profession. With respect to reducing information asymmetries in the profession, I co-created (with <a href="http://bartonwillage.com/">Barton Willage</a>) a <a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit#gid=720648348">list of economics conferences</a> with dates, deadlines, etc. I've also compiled a tutorial of sorts on <a href="https://annemburton.com/assets/burton_econtwitter_slides.pdf">How I Use EconTwitter</a>.
+I am also interested in efforts to diversify the economics profession, make the field of economics more inclusive, and reduce information asymmetries around opportunities for professional development. At Cornell, I co-organized a discussion on women in economics in the spring of 2018. I also co-organized the Speaking Economics symposium in 2019. In the fall of 2019, I co-founded <a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a> to formalize continuing efforts at fostering diversity at Cornell and in the profession. To help reduce information asymmetries in the profession, I co-created (with <a href="http://bartonwillage.com/">Barton Willage</a>) a <a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit#gid=720648348">list of economics conferences</a> with dates, deadlines, etc. I've also compiled a tutorial of sorts on <a href="https://annemburton.com/assets/burton_econtwitter_slides.pdf">How I Use EconTwitter</a>.
 <br/>
 <br/>
 -->
-Before coming to Cornell, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/">Federal Reserve Board of Governors</a> in Washington, D.C. from 2012-2015. I graduated from <a href="https://www.colby.edu/">Colby College</a> in Waterville, Maine in 2012 with a B.A. in <a href="https://www.colby.edu/econ/">Economics</a> and <a href="http://www.colby.edu/government/">Government</a>.
+Prior to graduate school, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/">Federal Reserve Board of Governors</a> in Washington, D.C. from 2012-2015. I graduated from <a href="https://www.colby.edu/">Colby College</a> in Waterville, Maine in 2012 with a B.A. in <a href="https://www.colby.edu/econ/">Economics</a> and <a href="http://www.colby.edu/government/">Government</a>.
 <br/>
 <br/>
-I will be an Assistant Professor of Economics in the <a href="https://epps.utdallas.edu/">School of Economic, Political and Policy Sciences</a> at the <a href="https://utdallas.edu/">University of Texas at Dallas</a> starting in fall 2021.
+
 <br/>
 <br/>
 <br/>
