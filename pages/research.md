@@ -26,7 +26,7 @@ with [David Wasser](https://www.davidnwasser.com/)
 <br/>
 
 
-#### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/burton_chapter_3_2021_06_03.pdf)
+#### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/Burton_drunk-driving_paper.pdf)
 
 <strong> Abstract: </strong> This paper investigates whether Uber and Lyft lead to reductions in drunk driving, as measured by city-level drunk-driver-related motor vehicle fatalities and fatal crashes. I use a difference-in-differences method that exploits the variation in the timing of Uber and Lyft entry for the 100 most populous U.S. cities and a Poisson model to account for the fact that crashes and fatalities are count data. Using monthly city-level Fatality Analysis Reporting System (FARS) data for 2006 to 2016, I find small declines in drunk-driver-related fatal motor vehicle incidents and small increases in overall fatal motor vehicle incidents, but I cannot reject the null hypothesis of no effect of Uber or Lyft on these outcomes. Event studies suggest that drunk-driver-related and overall fatal motor vehicle incidents decline several years after the entry of Uber or Lyft into a city.
 
