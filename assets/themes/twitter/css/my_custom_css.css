@@ -15,8 +15,8 @@ a {
 }
 
 a:hover {
-    color: #008542;/*#222222;*/
-    background-color: #f7f7f7;
+    color: #5bc6e8;/*#222222;*/
+    background-color: #8b8178;/*#f7f7f7;*/
     text-decoration: none;
 }
 
@@ -25,10 +25,10 @@ a img {
 }
 
 a:hover img {
-    color: #008542;/*#222222;*/
-    background-color: #f7f7f7;
+    color: #5bc6e8;/*#222222;*/
+    background-color: #8b8178;/*#f7f7f7;*/
     text-decoration: none;
-    border: solid 2px #f7f7f7;
+    border: solid 2px #8b8178;/*#f7f7f7;*/
 }
 
 p.center {
