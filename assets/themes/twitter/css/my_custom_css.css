@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color: #5bc6e8;/*#222222;*/
+    color: #00a1de;/*#222222;*/
     background-color: #ffffff;/*#f7f7f7;*/
     text-decoration: none;
 }
@@ -25,7 +25,7 @@ a img {
 }
 
 a:hover img {
-    color: #5bc6e8;/*#222222;*/
+    color: #00a1de;/*#222222;*/
     background-color: #ffffff;/*#f7f7f7;*/
     text-decoration: none;
     border: solid 2px #8b8178;/*#f7f7f7;*/
@@ -115,17 +115,17 @@ h1, h2, h3, h4, h5 {
    text-shadow: none;
 }
 .navbar .brand:hover {
-   color: #0039a6;/*#222222;*/
+   color: #5bc6e8;/*#222222;*/
    text-shadow: none;
 }
 .navbar-text {
-   color: #0039a6;/*#222222;*/
+   color: #5bc6e8;/*#222222;*/
 }
 .navbar-link {
-   color: #0039a6;/*#222222;*/
+   color: #5bc6e8;/*#222222;*/
 }
 .navbar-link:hover {
-   color: #0039a6;/*#222222;*/
+   color: #5bc6e8;/*#222222;*/
 }
 /*Change color of your website name in navigation bar
 .navbar .brand {
@@ -139,5 +139,5 @@ h1, h2, h3, h4, h5 {
 }
 
 /*I THINK one of these will change the color of a link in the navbar when you hover over it*/
-.navbar .nav>li>a:focus,.navbar .nav>li>a:hover{background-color:transparent;color:#0039a6;/*#222222;*/text-decoration:none;}
-.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#0039a6;/*#222222;*/text-decoration:none;background-color:#0039a6;/*#222222;*/-webkit-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);-moz-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);}
+.navbar .nav>li>a:focus,.navbar .nav>li>a:hover{background-color:transparent;color:#5bc6e8;/*#222222;*/text-decoration:none;}
+.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#5bc6e8;/*#222222;*/text-decoration:none;background-color:#5bc6e8;/*#222222;*/-webkit-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);-moz-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);}
