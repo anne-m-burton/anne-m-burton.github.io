@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5 {
    padding-left:1px;
    padding-right:1px;
    background-color:#fafafa;
-   background-image:-moz-linear-gradient(top, #b31b1b, #b31b1b);
+   background-image:-moz-linear-gradient(top, #c75b12, #c75b12);/*#b31b1b, #b31b1b);*/
    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#b31b1b), to(#b31b1b));
    background-image:-webkit-linear-gradient(top, #b31b1b, #b31b1b);
    background-image:-o-linear-gradient(top, #b31b1b, #b31b1b);
@@ -138,6 +138,6 @@ h1, h2, h3, h4, h5 {
    text-shadow: none;
 }
 
-/*I THNK one of these will change the color of a link in the navbar when you hover over it*/
+/*I THINK one of these will change the color of a link in the navbar when you hover over it*/
 .navbar .nav>li>a:focus,.navbar .nav>li>a:hover{background-color:transparent;color:#222222;text-decoration:none;}
 .navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#222222;text-decoration:none;background-color:#222222;-webkit-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);-moz-box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);box-shadow:inset 0 3px 8px rgba(0, 0, 0, 0.125);}
