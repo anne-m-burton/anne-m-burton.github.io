@@ -22,7 +22,7 @@
     If you have any suggestions or notice an error or omission, feel free to email me at
     <br/>
     <br/>
-    amb622@cornell.edu
+    anne.burton@utdallas.edu
 
   </div>
 </div>
