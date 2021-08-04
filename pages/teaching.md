@@ -15,7 +15,7 @@ This course empirically analyzes the causes and consequences of crime and the cr
 <br/>
 
 
-#### [Public Economics I (Graduate), The University of Texas at Dallas, Spring 2022](https://annemburton.com/pages/teaching/grad_public_2022s.html)
+#### [Public Economics I (Graduate), The University of Texas at Dallas, Spring 2022](https://annemburton.com/pages/teaching/grad_public_i_2022s.html)
 
 ##### Course Description
 
