@@ -21,6 +21,14 @@ link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu
 
 <br/>
 <br/>
+
+##### Course Description
+
+This course empirically analyzes the causes and consequences of crime and the criminal justice system using the tools of economics. A main focus of the course is reading and discussing empirical research papers in the economics of crime literature. Topics include the effects of incarceration on the incarcerated, the impacts of policies intended to deter crime or reduce recidivism, racial disparities in the criminal justice system, and the causes and consequences of domestic violence. Major projects include creation of a data portfolio examining one of several sources of national crime data using tables, graphs, and statistical relationships and a group presentation on a major episode or issue in U.S. crime policy.
+
+
+<br/>
+<br/>
 <br/>
 
 #### [back to teaching page](https://annemburton.com/pages/teaching.html)
