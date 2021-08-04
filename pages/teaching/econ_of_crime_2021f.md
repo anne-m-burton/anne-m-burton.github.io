@@ -11,10 +11,8 @@ description: Anne M. Burton's Undergraduate Economics of Crime course
 <strong> UT Dallas students enrolled in this course: </strong> use eLearning/Blackboard for info on course assignments and updates. This page will not be updated.
 
 <br/>
-<br/>
 
 link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu/galaxy/](https://www.utdallas.edu/galaxy/)
-
 
 <br/>
 <br/>
