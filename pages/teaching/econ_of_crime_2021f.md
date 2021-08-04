@@ -12,12 +12,14 @@ description: Anne M. Burton's Undergraduate Economics of Crime course
 
 <br/>
 <br/>
-<strong> Everybody else: </strong> I have posted my course schedule and reading list (and will probably at some point post the syllabus) in an attempt to be helpful. Feel free to use these public goods but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
-
-<br/>
-<br/>
 
 link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu/galaxy/](https://www.utdallas.edu/galaxy/)
+
+
+<br/>
+<br/>
+<strong> Everybody else: </strong> I have posted my course schedule and reading list (and will probably at some point post the syllabus) in an attempt to be helpful. Feel free to use these public goods but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
+
 <br/>
 <br/>
 ##### Syllabus
