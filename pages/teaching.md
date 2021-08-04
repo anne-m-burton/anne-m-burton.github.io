@@ -4,7 +4,7 @@ title: Teaching
 description: Anne M. Burton's teaching
 ---
 
-#### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas, Fall 2021](https://annemburton.com/pages/teaching/econ_of_crime_2021f.md)
+#### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas, Fall 2021](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
 
 ##### Course Description
 
@@ -15,7 +15,7 @@ This course empirically analyzes the causes and consequences of crime and the cr
 <br/>
 
 
-#### [Public Economics I (Graduate), The University of Texas at Dallas, Spring 2022](https://annemburton.com/pages/teaching/grad_public_2022s.md)
+#### [Public Economics I (Graduate), The University of Texas at Dallas, Spring 2022](https://annemburton.com/pages/teaching/grad_public_2022s.html)
 
 ##### Course Description
 
@@ -38,4 +38,4 @@ To increase the size of the title, use fewer # in front of the paper title.
 To decrease the size of the title, use more #. 
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
--->.md
+-->.
