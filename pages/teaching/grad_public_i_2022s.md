@@ -4,7 +4,7 @@ title: Teaching
 description: Anne M. Burton's Graduate Public Economics I course
 ---
 
-<strong> Check back soon! </strong}
+<strong> Check back soon! </strong>
 
 <br/>
 <br/>
