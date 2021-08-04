@@ -19,7 +19,7 @@ This course empirically analyzes the causes and consequences of crime and the cr
 
 ##### Course Description
 
-Placeholder for my spring 2022 course
+Teaching this course for the first time in spring 2022. This section is a placeholder as I haven't prepped it yet.
 <br/>
 <br/>
 <br/>
