@@ -6,6 +6,18 @@ description: Anne M. Burton's Undergraduate Economics of Crime course
 
 #### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas, Fall 2021](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
 
+<br/>
+<br/>
+<strong> UT Dallas students enrolled in the course: </strong> use eLearning/Blackboard
+<br/>
+link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu/galaxy/](https://www.utdallas.edu/galaxy/)
+<br/>
+<br/>
+##### Syllabus
+
+<br/>
+<br/>
+##### [Course Schedule and Reading List](https://annemburton.com/assets/econ_of_crime_reading_list_2021.pdf)
 
 <br/>
 <br/>
