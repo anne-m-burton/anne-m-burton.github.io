@@ -1,15 +1,22 @@
 ---
 layout: page
-title: Teaching
+title: Economics of Crime, ECON 4396.501
 description: Anne M. Burton's Undergraduate Economics of Crime course
 ---
 
-#### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas, Fall 2021](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
+#### [The University of Texas at Dallas, Fall 2021](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
 
 <br/>
 <br/>
-<strong> UT Dallas students enrolled in the course: </strong> use eLearning/Blackboard
+<strong> UT Dallas students enrolled in this course: </strong> use eLearning/Blackboard for info on course assignments and updates. This page will not be updated.
+
 <br/>
+<br/>
+<strong> Everybody else: </strong> I have posted my course schedule and reading list (and will probably at some point post the syllabus) in an attempt to be helpful. Feel free to use these public goods but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
+
+<br/>
+<br/>
+
 link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu/galaxy/](https://www.utdallas.edu/galaxy/)
 <br/>
 <br/>
@@ -41,4 +48,4 @@ To increase the size of the title, use fewer # in front of the paper title.
 To decrease the size of the title, use more #. 
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
--->.
+-->
