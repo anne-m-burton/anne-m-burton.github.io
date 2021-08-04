@@ -27,6 +27,9 @@ link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu
 ##### [Course Schedule and Reading List](https://annemburton.com/assets/econ_of_crime_reading_list_2021.pdf)
 
 <br/>
+<strong> Acknowledgements: </strong> Thank you Samara Gunter (my undergrad econ of crime professor) for sharing your syllabus and reading list with me. The reading list has changed quite a bit since I took your course over a decade ago because there have been many fantastic papers in the economics of crime literature written in the last decade, but the assessments are timeless. Thank you Evan Riehl for the list of reading questions, which I adapted slightly.
+
+<br/>
 <br/>
 
 ##### Course Description
