@@ -30,7 +30,7 @@
 <br/>
 
 <div class="page-header">
-  <h2>Historical data on JOE listings for health economists </h2>
+  <h4>Historical data on JOE listings for health economists </h4>
 </div>
 
 <div class="row-fluid">
