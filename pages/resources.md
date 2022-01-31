@@ -8,7 +8,7 @@
         
 
 <div class="page-header">
-  <h2>Link to my slides on "How I Use EconTwitter" </h2>
+  <h4>Link to my slides on "How I Use EconTwitter" </h4>
 </div>
 
 <div class="row-fluid">
