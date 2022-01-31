@@ -38,7 +38,7 @@
     Spreadsheet containing historical data (2019 start year to 2022 start year) on AEA JOE listings for health economists, as featured in the 2022 winter edition of the ASHEcon newsletter:
     <br/>
     <br/>
-    <li><a href="{{ BASE_PATH }}/assets/joe_results_public.xls">"Historical JOE listings for health economists</a></li>
+    <li><a href="{{ BASE_PATH }}/assets/joe_results_public.xls">Historical JOE listings for health economists</a></li>
     <br/>
     <br/>
 
