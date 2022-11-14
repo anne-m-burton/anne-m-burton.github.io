@@ -15,10 +15,10 @@ link to Galaxy page where you can log in to eLearning: [https://www.utdallas.edu
 
 <br/>
 <br/>
-<strong> Everybody else: </strong> I have posted my course schedule and reading list (and will probably at some point post the syllabus) in an attempt to be helpful. Feel free to use these public goods but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
+<strong> Everybody else: </strong> I have posted my course schedule, reading list, and syllabus in an attempt to be helpful. Feel free to use these public goods but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
 
 <br/>
-##### Syllabus
+##### [Syllabus](https://annemburton.com/assets/econ_of_crime_coursebook_syllabus_2021_fall_v7.pdf)
 
 <br/>
 ##### [Course Schedule and Reading List](https://annemburton.com/assets/econ_of_crime_reading_list_2021.pdf)
