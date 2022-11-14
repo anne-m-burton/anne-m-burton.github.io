@@ -16,7 +16,7 @@ description: Anne M. Burton's research
 <br/>
 
 
-#### [Ban the Box and Cross-Border Spillovers](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB_paper.pdf)
+#### [Ban the Box and Cross-Border Spillovers](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
 
 with [David Wasser](https://www.davidnwasser.com/)
 
