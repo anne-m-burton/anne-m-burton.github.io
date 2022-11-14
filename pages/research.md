@@ -27,6 +27,17 @@ with [David Wasser](https://www.davidnwasser.com/)
 <br/>
 
 
+#### [Blowing Above the Limit: Particulate Matter Pollution, Road Safety, and Vehicular Death] (draft coming soon!)
+
+with [Travis Roach](https://www.travisroach.com/)
+
+<strong> Abstract: </strong> There is mounting causal evidence that particulate matter pollution reduces real-time cognitive function and increases aggressive behavior. We investigate a setting in which both of these functions matter greatly: driving. Using exogenous variation in wind speed and direction, we show that higher PM 2.5 exposure results in both more fatal traffic accidents and more vehicular fatalities. Further, we find that it is only exposure within the preceding 24 hours that increases accidents and fatalities, which shows that there are immediate negative effects of high-pollution days.
+
+<br/>
+<br/>
+<br/>
+
+
 #### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/Burton_drunk-driving_paper.pdf)
 
 <strong> Abstract: </strong> This paper investigates whether Uber and Lyft lead to reductions in drunk driving, as measured by city-level drunk-driver-related motor vehicle fatalities and fatal crashes. I use a difference-in-differences method that exploits the variation in the timing of Uber and Lyft entry for the 100 most populous U.S. cities and a Poisson model to account for the fact that crashes and fatalities are count data. Using monthly city-level Fatality Analysis Reporting System (FARS) data for 2006 to 2016, I find small declines in drunk-driver-related fatal motor vehicle incidents and small increases in overall fatal motor vehicle incidents, but I cannot reject the null hypothesis of no effect of Uber or Lyft on these outcomes. Event studies suggest that drunk-driver-related and overall fatal motor vehicle incidents decline several years after the entry of Uber or Lyft into a city.
