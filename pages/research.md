@@ -27,7 +27,7 @@ with [David Wasser](https://www.davidnwasser.com/)
 <br/>
 
 
-#### [Blowing Above the Limit: Particulate Matter Pollution, Road Safety, and Vehicular Death] (draft coming soon!)
+#### Blowing Above the Limit: Particulate Matter Pollution, Road Safety, and Vehicular Death (draft coming soon!)
 
 with [Travis Roach](https://www.travisroach.com/)
 
