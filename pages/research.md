@@ -27,11 +27,11 @@ with [David Wasser](https://www.davidnwasser.com/)
 <br/>
 
 
-#### Blowing Above the Limit: Particulate Matter Pollution, Road Safety, and Vehicular Death (draft coming soon!)
+#### [Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_Pollution.pdf)
 
 with [Travis Roach](https://www.travisroach.com/)
 
-<strong> Abstract: </strong> There is mounting causal evidence that particulate matter pollution reduces real-time cognitive function and increases aggressive behavior. We investigate a setting in which both of these functions matter greatly: driving. Using exogenous variation in wind speed and direction, we show that higher PM 2.5 exposure results in both more fatal traffic accidents and more vehicular fatalities. Further, we find that it is only exposure within the preceding 24 hours that increases accidents and fatalities, which shows that there are immediate negative effects of high-pollution days.
+<strong> Abstract: </strong> There is mounting causal evidence that particulate matter pollution reduces real-time cognitive function and increases aggressive behavior. We investigate a setting in which both of these functions matter greatly: driving. Using exogenous variation in wind speed and direction, we show that higher PM 2.5 exposure results in more fatal car crashes and fatalities. Further, it is only exposure within the preceding 24 hours that increases accidents and fatalities, highlighting the immediate negative effects of high-pollution days. Reducing fine particulate matter pollution by one standard deviation across the board would have averted 1,500 motor vehicle fatalities in 2019.
 
 <br/>
 <br/>
