@@ -27,7 +27,7 @@ with [David Wasser](https://www.davidnwasser.com/)
 <br/>
 
 
-#### [Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_Pollution.pdf)
+#### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_Pollution.pdf)
 
 with [Travis Roach](https://www.travisroach.com/)
 
