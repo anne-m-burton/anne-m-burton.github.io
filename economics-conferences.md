@@ -16,7 +16,7 @@
     Here is the link to the list of economics conferences that Barton Willage and I maintain:
     <br/>
     <br/>
-    <li><a href="https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit?usp=sharing">Economics Conferences spreadsheet</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1OjCncG_88aasdZtdekfCfOxANuyNFYG0Vhu7hB_3vbk/edit?usp=sharing">Economics Conferences spreadsheet</a></li>
     <br/>
     <br/>
     If you have any suggestions or notice an error or omission, feel free to email me at
