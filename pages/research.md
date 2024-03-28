@@ -17,11 +17,11 @@ description: Anne M. Burton's research
 <br/>
 
 
-#### [Ban the Box and Cross-Border Spillovers](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
+#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
 
 with [David Wasser](https://www.davidnwasser.com/)
 
-<strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help ex-offenders find employment by delaying when employers can ask about criminal records. Existing evidence finds BTB causes discrimination against young, non-college-educated minority men. We show that effects for this group are not robust to a simple change in specification and the coding of BTB laws. Using a distinct treatment definition, we find no evidence of statistical discrimination: employment effects are near zero, precisely estimated, and not statistically significant. Our confidence intervals exclude the negative effects from a prominent prior study. We also test for spillovers to neighboring jurisdictions and find precisely estimated null effects.
+<strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help formerly incarcerated individuals find employment by delaying when employers can ask about criminal records. We revisit findings in Doleac and Hansen (2020) showing BTB causes discrimination against minority men. Their results using the Current Population Survey (CPS) are based on very small cells prone to sampling error or spurious treatment effects. We correct miscoded BTB laws and show that estimates using the American Community Survey (ACS) do not have this problem. Using the ACS, we find no evidence of discrimination: employment effects are near zero, precisely estimated, and not economically meaningful.
 
 <br/>
 <br/>
