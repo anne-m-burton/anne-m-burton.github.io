@@ -32,7 +32,17 @@ with [David Wasser](https://www.davidnwasser.com/)
 
 with [Travis Roach](https://www.travisroach.com/)
 
-<strong> Abstract: </strong> There is mounting causal evidence that particulate matter pollution reduces real-time cognitive function and increases aggressive behavior by reducing neural connectivity through oxidative stress and neuro-inflammation. We investigate a setting in which reduced cognition can generate significant private and external costs: driving. Using exogenous variation in wind speed and direction, we show that higher PM2.5 exposure results in more fatal car crashes and fatalities. Further, it is only exposure within the preceding 24 hours that increases accidents and fatalities, highlighting the immediate negative effects of high-pollution days. Reducing fine particulate matter pollution by one standard deviation across the board would have averted nearly 2,000 motor vehicle fatalities in 2019.
+<strong> Abstract: </strong> Mounting causal evidence shows particulate matter pollution reduces real-time cognitive function and increases aggressive behavior by reducing neural connectivity through oxidative stress and neuro-inflammation. We investigate a setting in which reduced cognition can generate significant private and external costs: driving. Using exogenous variation in wind direction, we show that higher PM2.5 exposure results in more fatal car crashes and fatalities. Further, only same-day pollution exposure increases accidents and fatalities, highlighting the immediate negative effects of high-pollution days. An across-the-board one standard deviation reduction in fine particulate matter pollution would have averted over 2,800 motor vehicle fatalities in 2019.
+
+<br/>
+<br/>
+<br/>
+
+#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-pill-mills-2025-01-10.pdf)
+
+with [Brandyn F. Churchill](https://brandynchurchill.com/)
+
+<strong> Abstract: </strong> Policymakers routinely limit the sale of goods thought to be of risk to public health. Despite a large literature studying how these supply-side interventions affect consumer outcomes, relatively less is known about whether and how these policies affect firm performance. Using 2000-2018 National Establishment Time-Series data and a difference-in-differences strategy, we show that state ``pill mill'' laws intended to reduce the overprescribing of opioids reduced retail pharmacy sales and employment. These reductions were driven by an increase in the number of pharmacy closures, particularly among standalone establishments, while surviving establishments experienced modest improvements in market outcomes.
 
 <br/>
 <br/>
