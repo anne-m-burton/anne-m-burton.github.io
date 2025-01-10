@@ -38,7 +38,7 @@ with [Travis Roach](https://www.travisroach.com/)
 <br/>
 <br/>
 
-#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-pill-mills-2025-01-10.pdf)
+#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-pill-mills-2025-01-09.pdf)
 
 with [Brandyn F. Churchill](https://brandynchurchill.com/)
 
