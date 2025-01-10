@@ -42,7 +42,7 @@ with [Travis Roach](https://www.travisroach.com/)
 
 with [Brandyn F. Churchill](https://brandynchurchill.com/)
 
-<strong> Abstract: </strong> Policymakers routinely limit the sale of goods thought to be of risk to public health. Despite a large literature studying how these supply-side interventions affect consumer outcomes, relatively less is known about whether and how these policies affect firm performance. Using 2000-2018 National Establishment Time-Series data and a difference-in-differences strategy, we show that state ``pill mill'' laws intended to reduce the overprescribing of opioids reduced retail pharmacy sales and employment. These reductions were driven by an increase in the number of pharmacy closures, particularly among standalone establishments, while surviving establishments experienced modest improvements in market outcomes.
+<strong> Abstract: </strong> Policymakers routinely limit the sale of goods thought to be of risk to public health. Despite a large literature studying how these supply-side interventions affect consumer outcomes, relatively less is known about whether and how these policies affect firm performance. Using 2000-2018 National Establishment Time-Series data and a difference-in-differences strategy, we show that state "pill mill" laws intended to reduce the overprescribing of opioids reduced retail pharmacy sales and employment. These reductions were driven by an increase in the number of pharmacy closures, particularly among standalone establishments, while surviving establishments experienced modest improvements in market outcomes.
 
 <br/>
 <br/>
