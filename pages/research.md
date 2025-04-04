@@ -46,7 +46,7 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/)
 <br/>
 
 ## Publications ##
-#### [The Impact of Smoking Bans in Bars on Alcohol Consumption and Smoking](https://annemburton.com/pages/working_papers/Burton_smoking_bans.pdf) *Journal of Law and Economics*, 68(1): 183-214. 2025.
+#### [The Impact of Smoking Bans in Bars on Alcohol Consumption and Smoking](https://annemburton.com/pages/working_papers/Burton_smoking_bans.pdf) 2025. *Journal of Law and Economics*, 68(1): 183-214. https://www.journals.uchicago.edu/doi/10.1086/731698
 
 <strong> Abstract: </strong> Governments implemented smoking bans in bars to target smoking-related externalities, but these bans may also affect drinking. This paper studies smoking bans’ effects on alcohol consumption and smoking behavior. I estimate a difference-in-differences model that exploits spatial and temporal variation in smoking bans. Bans result in a 1-drink-per-month (5 percent) increase in intensive-margin alcohol consumption and no economically meaningful effects on smoking. Effects on alcohol consumption are concentrated among current and former smokers. These results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption.
 
