@@ -3,19 +3,7 @@ layout: page
 title: Research
 description: Anne M. Burton's research
 ---
-#### [The Impact of Smoking Bans in Bars on Alcohol Consumption and Smoking](https://annemburton.com/pages/working_papers/Burton_smoking_bans.pdf)
-
-<strong> Abstract: </strong> Governments implemented smoking bans in bars to target smoking-related externalities, but these bans may also affect drinking. This paper studies smoking bans’ effects on alcohol consumption and smoking behavior. I estimate a difference-in-differences model that exploits spatial and temporal variation in smoking bans. Bans result in a 1-drink-per-month (5 percent) increase in intensive-margin alcohol consumption and no economically meaningful effects on smoking. Effects on alcohol consumption are concentrated among current and former smokers. These results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption.
-
-
-###### [Old Version (with drunk-driving results): The Impact of Smoking Bans in Bars and Restaurants on Alcohol Consumption, Smoking, and Alcohol-Related Externalities](https://annemburton.com/pages/working_papers/Burton_JMP.pdf)
-
-<!--<strong> Abstract: </strong> Smoking bans in bars and restaurants are one example of the many ways in which governments intervene to correct market failures such as externalities. These bans also represent a change in a non-price determinant of demand for alcohol consumed at bars, which could affect total alcohol consumption. This paper studies the effects of smoking bans on the amount and location of alcohol consumption, smoking, and alcohol-related externalities. I use a difference-in-differences method that exploits variation in the effective dates of smoking bans in bars and restaurants across cities, counties, and states. For individuals who drink, smoking bans result in an average increase in alcohol consumption of 1 drink per month. Occasional smokers drink an additional 2 drinks per month and former smokers drink 1 additional drink per month. These increases are entirely driven by changes in bar and restaurant alcohol consumption. Smoking bans have essentially no effect on extensive-margin smoking or violent crimes. They do, however, lead to a 4% increase in fatal drunk-driving crashes in areas with a high prevalence of smoking. Taken together, these results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption and drunk driving, making their net effect on social welfare ambiguous. -->
-
-<br/>
-<br/>
-<br/>
-
+## Working Papers ##
 
 #### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
 
@@ -52,6 +40,24 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/)
 #### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/burton_2nd_year_paper_2021_08_20.pdf)
 
 <strong> Abstract: </strong> This paper investigates whether Uber and Lyft lead to reductions in drunk driving, as measured by city-level drunk-driver-related motor vehicle fatalities and fatal crashes. I use a difference-in-differences method that exploits the variation in the timing of Uber and Lyft entry for the 100 most populous U.S. cities and a Poisson model to account for the fact that crashes and fatalities are count data. Using monthly city-level Fatality Analysis Reporting System (FARS) data for 2006 to 2016, I find small declines in drunk-driver-related fatal motor vehicle incidents and small increases in overall fatal motor vehicle incidents, but I cannot reject the null hypothesis of no effect of Uber or Lyft on these outcomes. Event studies suggest that drunk-driver-related and overall fatal motor vehicle incidents decline several years after the entry of Uber or Lyft into a city.
+
+<br/>
+<br/>
+<br/>
+
+## Publications ##
+#### [The Impact of Smoking Bans in Bars on Alcohol Consumption and Smoking](https://annemburton.com/pages/working_papers/Burton_smoking_bans.pdf) *Journal of Law and Economics*, 68(1): 183-214. 2025.
+
+<strong> Abstract: </strong> Governments implemented smoking bans in bars to target smoking-related externalities, but these bans may also affect drinking. This paper studies smoking bans’ effects on alcohol consumption and smoking behavior. I estimate a difference-in-differences model that exploits spatial and temporal variation in smoking bans. Bans result in a 1-drink-per-month (5 percent) increase in intensive-margin alcohol consumption and no economically meaningful effects on smoking. Effects on alcohol consumption are concentrated among current and former smokers. These results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption.
+
+
+###### [Old Version (with drunk-driving results): The Impact of Smoking Bans in Bars and Restaurants on Alcohol Consumption, Smoking, and Alcohol-Related Externalities](https://annemburton.com/pages/working_papers/Burton_JMP.pdf)
+
+<!--<strong> Abstract: </strong> Smoking bans in bars and restaurants are one example of the many ways in which governments intervene to correct market failures such as externalities. These bans also represent a change in a non-price determinant of demand for alcohol consumed at bars, which could affect total alcohol consumption. This paper studies the effects of smoking bans on the amount and location of alcohol consumption, smoking, and alcohol-related externalities. I use a difference-in-differences method that exploits variation in the effective dates of smoking bans in bars and restaurants across cities, counties, and states. For individuals who drink, smoking bans result in an average increase in alcohol consumption of 1 drink per month. Occasional smokers drink an additional 2 drinks per month and former smokers drink 1 additional drink per month. These increases are entirely driven by changes in bar and restaurant alcohol consumption. Smoking bans have essentially no effect on extensive-margin smoking or violent crimes. They do, however, lead to a 4% increase in fatal drunk-driving crashes in areas with a high prevalence of smoking. Taken together, these results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption and drunk driving, making their net effect on social welfare ambiguous. -->
+
+
+
+
 
 
 <!-- #### <u>Placeholder</u>
