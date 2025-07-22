@@ -73,13 +73,13 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/)
 
 <br/>
 
-#### The Impact of Ending the Rape-Kit Backlog on Sexual Assaults, Arrests, and Convictions
+###### The Impact of Ending the Rape-Kit Backlog on Sexual Assaults, Arrests, and Convictions
 
-#### Fine Particulate Matter Pollution and Domestic Violence
+###### Fine Particulate Matter Pollution and Domestic Violence
 
 with [Travis Roach](https://www.travisroach.xyz/)
 
-#### The Effect of Moderate Increases in Alcohol Consumption on Crime: Evidence from Smoking Bans
+###### The Effect of Moderate Increases in Alcohol Consumption on Crime: Evidence from Smoking Bans
 
 <br/>
 
