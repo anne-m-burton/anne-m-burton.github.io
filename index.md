@@ -42,13 +42,13 @@ keywords: Anne, Burton, Anne Burton, Anne M. Burton, Anne Burton economics, Anne
 </div>
 
 <br/>
-I am an Assistant Professor of Economics in the <a href="https://epps.utdallas.edu/">School of Economic, Political, and Policy Sciences</a> at the <a href="https://utdallas.edu/">University of Texas at Dallas</a>. I received my Ph.D. in Economics from the <a href="https://economics.cornell.edu/">Department of Economics</a> at Cornell University in 2021. I was also affiliated with the Department of Policy Analysis and Management (now part of the Brooks School of Public Policy). My research is primarily concerned with the spillover effects of risky health behaviors and crime, which means my work lies at the intersection of health economics, public economics, and the economics of crime. My research has been funded by Arnold Ventures.
+I am an Assistant Professor of Economics in the <a href="https://epps.utdallas.edu/">School of Economic, Political, and Policy Sciences</a> at the University of Texas at Dallas. I received my Ph.D. in Economics from the <a href="https://economics.cornell.edu/">Department of Economics</a> at Cornell University in 2021. I was also affiliated with the Department of Policy Analysis and Management (now part of the Brooks School of Public Policy). My research is primarily concerned with the spillover effects of risky health behaviors and crime, which means my work lies at the intersection of health economics, public economics, and the economics of crime. My research has been funded by Arnold Ventures.
 <br/>
 <br/>
 I have been the lead editor of the <a href="https://www.ashecon.org/newsletter/">American Society of Health Economists (ASHEcon) newsletter</a> since 2022. In 2023 I co-founded, with <a href="https://www.benharrellecon.com/">Ben Harrell</a>, the Texas Early-Career Health Economist Network (TEXHEN). I am also a coorganizer of the Texas Economics of Crime Workshop (TxECW) along with <a href="https://sites.google.com/view/tuttle/">Cody Tuttle</a> and <a href="http://www.jameinpcunningham.com/">Jamein Cunningham</a>.
 <br/>
 <br/>
-Prior to graduate school, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/">Federal Reserve Board of Governors</a> in Washington, D.C. I graduated from <a href="https://www.colby.edu/">Colby College</a> in Waterville, Maine with a B.A. in <a href="https://www.colby.edu/econ/">Economics</a> and <a href="http://www.colby.edu/government/">Government</a>.
+Prior to graduate school, I was a Senior Research Assistant in the Fiscal Analysis section at the <a href="https://www.federalreserve.gov/">Federal Reserve Board of Governors</a> in Washington, D.C. I graduated from <a href="https://www.colby.edu/">Colby College</a> in Waterville, Maine with a B.A. in Economics and Government.
 <br/>
 <br/>
 
