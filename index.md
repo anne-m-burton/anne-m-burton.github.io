@@ -61,7 +61,7 @@ Prior to graduate school, I was a Senior Research Assistant in the Fiscal Analys
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <! <li><a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a></li>>
+          <!-- <li><a href="https://diversity-in-cornell-economics.github.io/">Diversity in Cornell Economics</a></li>-->
           <li><a href="https://github.com/anne-m-burton">GitHub</a></li>
           <li><a href="https://twitter.com/anne_m_burton">Twitter</a></li>
           <li><a href="{{ BASE_PATH }}/pages/resources.html">Resources</a></li>
