@@ -12,7 +12,7 @@ with [David Wasser](https://www.davidnwasser.com/)
 
 ###### Revise and Resubmit at <i> Journal of Public Economics </i>
 
-<strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help formerly incarcerated individuals find employment by delaying when employers can ask about criminal records. We revisit findings in Doleac and Hansen (2020) showing BTB causes discrimination against minority men. Their results using the Current Population Survey (CPS) are based on very small cells prone to sampling error or spurious treatment effects. We correct miscoded BTB laws and show that estimates using the American Community Survey (ACS) do not have this problem. Using the ACS, we find no evidence of discrimination: employment effects are near zero, precisely estimated, and not economically meaningful.
+<strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help formerly incarcerated individuals nd employment by delaying when employers can ask about criminal records. We revisit the nding in Doleac and Hansen (2020) that BTB causes discrimination against minority men. We correct miscoded BTB laws and show that estimates from the Current Population Survey (CPS) remain quantitatively similar, while those from the American Community Survey (ACS) now indicate precisely estimated null eects. In contrast to the published estimates, these ACS results are statistically signicantly dierent from the CPS results, indicating a lack of robustness across datasets. We rule out several hypotheses for these divergent results, including dierences in the frequency of the surveys. We conclude that the CPS results are likely driven by overly small cells prone to sampling error and that the ACS estimates should be considered more reliable.
 
 <br/>
 <br/>
