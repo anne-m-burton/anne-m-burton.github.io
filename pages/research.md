@@ -21,8 +21,7 @@ with [David Wasser](https://www.davidnwasser.com/)
 
 #### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
 
-with [Travis Roach](https://www.travisroach.com/)
-
+with [Travis Roach](https://www.travisroach.xyz/)
 ###### Revise and Resubmit at <i> Journal of Environmental Economics and Management </i>
 
 <strong> Abstract: </strong> Mounting causal evidence shows particulate matter pollution reduces real-time cognitive function and increases aggressive behavior by reducing neural connectivity through oxidative stress and neuro-inflammation. We investigate a setting in which reduced cognition can generate significant private and external costs: driving. Using exogenous variation in wind direction, we show that higher PM2.5 exposure results in more fatal car crashes and fatalities. Further, only same-day pollution exposure increases accidents and fatalities, highlighting the immediate negative effects of high-pollution days. An across-the-board one standard deviation reduction in fine particulate matter pollution would have averted over 2,800 motor vehicle fatalities in 2019.
