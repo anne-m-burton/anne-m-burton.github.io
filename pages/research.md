@@ -6,7 +6,7 @@ description: Anne M. Burton's research
 ### Working Papers ###
 <br/>
 
-#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
+#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB_2025.pdf)
 
 with [David Wasser](https://www.davidnwasser.com/)
 
