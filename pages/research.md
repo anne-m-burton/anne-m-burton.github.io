@@ -6,19 +6,6 @@ description: Anne M. Burton's research
 ### Working Papers ###
 <br/>
 
-#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB_2025.pdf)
-
-with [David Wasser](https://www.davidnwasser.com/)
-
-###### Revise and Resubmit at <i> Journal of Public Economics </i>
-
-<strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help formerly incarcerated individuals find employment by delaying when employers can ask about criminal records. We revisit the finding in Doleac and Hansen (2020) that BTB causes discrimination against minority men. We correct miscoded BTB laws and show that estimates from the Current Population Survey (CPS) remain quantitatively similar, while those from the American Community Survey (ACS) now indicate precisely estimated null effects. In contrast to the published estimates, these ACS results are statistically significantly different from the CPS results, indicating a lack of robustness across datasets. We rule out several hypotheses for these divergent results, including differences in the frequency of the surveys. We conclude that the CPS results are likely driven by overly small cells prone to sampling error and that the ACS estimates should be considered more reliable.
-
-<br/>
-<br/>
-<br/>
-
-
 #### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
 
 with [Travis Roach](https://www.travisroach.xyz/)
@@ -61,7 +48,19 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/)
 <strong> Abstract: </strong> Governments implemented smoking bans in bars to target smoking-related externalities, but these bans may also affect drinking. This paper studies smoking bans’ effects on alcohol consumption and smoking behavior. I estimate a difference-in-differences model that exploits spatial and temporal variation in smoking bans. Bans result in a 1-drink-per-month (5 percent) increase in intensive-margin alcohol consumption and no economically meaningful effects on smoking. Effects on alcohol consumption are concentrated among current and former smokers. These results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption.
 
 
-###### [Old Version (with drunk-driving results): The Impact of Smoking Bans in Bars and Restaurants on Alcohol Consumption, Smoking, and Alcohol-Related Externalities](https://annemburton.com/pages/working_papers/Burton_JMP.pdf)
+###### [Old Version (with drunk-driving results): The Impact of Smoking Bans in Bars and Restaurants on Alcohol Consumption, Smoking, and Alcohol-Related Externalities](https://annemburton.com/pages/working_papers/Burton_JMP_o.pdf)
+
+<br/>
+<br/>
+<br/>
+
+#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
+
+with [David Wasser](https://www.davidnwasser.com/)
+
+###### Accepted at <i> Journal of Public Economics </i>
+
+<strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help formerly incarcerated individuals find employment by delaying when employers can ask about criminal records. We revisit the finding in Doleac and Hansen (2020) that BTB causes statistical discrimination against minority men. We correct miscoded BTB laws and show that estimates from the Current Population Survey (CPS) remain quantitatively similar, while those from the American Community Survey (ACS) now fail to reject the null hypothesis of no effect of BTB on employment. In contrast to the published estimates, these ACS results are statistically significantly different from the CPS results, indicating a lack of robustness across datasets. We do not find evidence that these differences are due to sample composition or survey weights. There is limited evidence that these divergent results are explained by the different frequencies of these surveys. Differences in sample sizes may also lead to different estimates; the ACS has a much larger sample and more statistical power to detect effects near the corrected CPS estimates.
 
 <!--<strong> Abstract: </strong> Smoking bans in bars and restaurants are one example of the many ways in which governments intervene to correct market failures such as externalities. These bans also represent a change in a non-price determinant of demand for alcohol consumed at bars, which could affect total alcohol consumption. This paper studies the effects of smoking bans on the amount and location of alcohol consumption, smoking, and alcohol-related externalities. I use a difference-in-differences method that exploits variation in the effective dates of smoking bans in bars and restaurants across cities, counties, and states. For individuals who drink, smoking bans result in an average increase in alcohol consumption of 1 drink per month. Occasional smokers drink an additional 2 drinks per month and former smokers drink 1 additional drink per month. These increases are entirely driven by changes in bar and restaurant alcohol consumption. Smoking bans have essentially no effect on extensive-margin smoking or violent crimes. They do, however, lead to a 4% increase in fatal drunk-driving crashes in areas with a high prevalence of smoking. Taken together, these results imply that smoking bans lead to unintended consequences in the form of increased alcohol consumption and drunk driving, making their net effect on social welfare ambiguous. -->
 
