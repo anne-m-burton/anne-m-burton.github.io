@@ -56,9 +56,7 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/)
 
 #### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
 
-with [David Wasser](https://www.davidnwasser.com/)
-
-###### Accepted at <i> Journal of Public Economics </i>
+with [David Wasser](https://www.davidnwasser.com/). <strong> Accepted at <i> Journal of Public Economics </i> </strong>
 
 <strong> Abstract: </strong> Ban-the-Box (BTB) policies intend to help formerly incarcerated individuals find employment by delaying when employers can ask about criminal records. We revisit the finding in Doleac and Hansen (2020) that BTB causes statistical discrimination against minority men. We correct miscoded BTB laws and show that estimates from the Current Population Survey (CPS) remain quantitatively similar, while those from the American Community Survey (ACS) now fail to reject the null hypothesis of no effect of BTB on employment. In contrast to the published estimates, these ACS results are statistically significantly different from the CPS results, indicating a lack of robustness across datasets. We do not find evidence that these differences are due to sample composition or survey weights. There is limited evidence that these divergent results are explained by the different frequencies of these surveys. Differences in sample sizes may also lead to different estimates; the ACS has a much larger sample and more statistical power to detect effects near the corrected CPS estimates.
 
