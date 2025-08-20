@@ -15,7 +15,7 @@ This course will teach students the economic approach to studying risky health b
 <br/>
 
 
-#### [Intermediate Microeconomic Theory (Undergraduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/micro_theory_2022f.html)
+#### [Intermediate Microeconomic Theory (Undergraduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/micro_theory.html)
 
 ##### Course Description
 
