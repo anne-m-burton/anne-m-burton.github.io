@@ -7,7 +7,7 @@ description: Anne M. Burton's Graduate Public Economics I course
 I have posted my syllabus in an attempt to be helpful. Feel free to use this public good but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
 
 <br/>
-##### [Syllabus](https://annemburton.com/assets/burton_grad_public_coursebook_syllabus_2022_spring_v4.pdf)
+##### [Syllabus](https://annemburton.com/assets/burton_grad_public_coursebook_syllabus_2025_2_fall.pdf)
 
 <br/>
 <strong> Acknowledgements: </strong> Thank you to Marika Cabral, Mike Lovenheim, and Analisa Packham for sharing course syllabi and materials with me.
