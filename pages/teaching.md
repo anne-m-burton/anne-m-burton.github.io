@@ -4,7 +4,7 @@ title: Teaching
 description: Anne M. Burton's teaching
 ---
 
-#### [Risky Health Behaviors (Undergraduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/micro_theory_2022f.html)
+#### Risky Health Behaviors (Undergraduate), The University of Texas at Dallas
 
 ##### Course Description
 
@@ -26,7 +26,7 @@ This course examines theories of how consumers and producers behave and interact
 <br/>
 
 
-#### [Public Economics I (Graduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/grad_public_i_2022s.html)
+#### [Public Economics I (Graduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/grad_public_i.html)
 
 ##### Course Description
 
