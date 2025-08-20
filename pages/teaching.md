@@ -4,7 +4,18 @@ title: Teaching
 description: Anne M. Burton's teaching
 ---
 
-#### [Intermediate Microeconomic Theory (Undergraduate), The University of Texas at Dallas, Fall 2022](https://annemburton.com/pages/teaching/micro_theory_2022f.html)
+#### [Risky Health Behaviors (Undergraduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/micro_theory_2022f.html)
+
+##### Course Description
+
+This course will teach students the economic approach to studying risky health behaviors. Risky behaviors such as alcohol abuse, tobacco use, drug use, risky sex, poor diet, a sedentary lifestyle (leading to obesity), and self-harm contribute to hundreds of thousands of preventable deaths and billions in medical costs in the U.S. each year. This course will cover the research literature on the economic causes, correlates, and consequences of risky health behaviors. Several policies intended to modify or mitigate risky health behaviors, such as the minimum legal drinking age and tobacco regulation, will be discussed in class.
+
+<br/>
+<br/>
+<br/>
+
+
+#### [Intermediate Microeconomic Theory (Undergraduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/micro_theory_2022f.html)
 
 ##### Course Description
 
@@ -15,7 +26,7 @@ This course examines theories of how consumers and producers behave and interact
 <br/>
 
 
-#### [Public Economics I (Graduate), The University of Texas at Dallas, Spring 2022](https://annemburton.com/pages/teaching/grad_public_i_2022s.html)
+#### [Public Economics I (Graduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/grad_public_i_2022s.html)
 
 ##### Course Description
 
@@ -29,7 +40,7 @@ A main focus of the course is reading and presenting economics papers on topics 
 <br/>
 <br/>
 
-#### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas, Fall 2021](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
+#### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
 
 ##### Course Description
 
