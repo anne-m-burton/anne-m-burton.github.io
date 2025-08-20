@@ -7,7 +7,7 @@ description: Anne M. Burton's Intermediate Microeconomic Theory course
 I have posted my syllabus in an attempt to be helpful. Feel free to use this public good but if you use any of my materials verbatim or substantially base your course off mine, please cite me/acknowledge me.
 
 <br/>
-##### [Syllabus](https://annemburton.com/assets/burton_intermediate_micro_coursebook_syllabus_2022_fall_v3.pdf)
+##### [Syllabus](https://annemburton.com/assets/burton_intermediate_micro_coursebook_syllabus_2025_fall_v1.pdf)
 
 <br/>
 <strong> Acknowledgements: </strong> Thank you to Rodney Andrews, Jonas Hedlund, and Barton Willage for sharing course syllabi and materials with me.
