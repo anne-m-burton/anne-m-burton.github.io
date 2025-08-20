@@ -40,7 +40,7 @@ A main focus of the course is reading and presenting economics papers on topics 
 <br/>
 <br/>
 
-#### [Economics of Crime (Undergraduate), ECON 4396.501, The University of Texas at Dallas](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
+#### [Economics of Crime (Undergraduate), The University of Texas at Dallas](https://annemburton.com/pages/teaching/econ_of_crime_2021f.html)
 
 ##### Course Description
 
