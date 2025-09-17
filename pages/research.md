@@ -17,13 +17,13 @@ with [Travis Roach](https://www.travisroach.xyz/)
 <br/>
 <br/>
 
-#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-PillMills-2025-02-11.pdf)
+#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-PillMills-2025-09-17.pdf)
 
 with [Brandyn F. Churchill](https://brandynchurchill.com/)
 
 ###### Revise and Resubmit at <i> Journal of Health Economics </i>
 
-<strong> Abstract: </strong> Policymakers routinely limit the sale of goods thought to be of risk to public health. Despite a large literature studying how these supply-side interventions affect consumer outcomes, relatively less is known about whether and how these policies affect firm performance. Using 2000-2018 National Establishment Time-Series data and a difference-in-differences strategy, we show that state "pill mill" laws intended to reduce the overprescribing of opioids reduced retail pharmacy sales and employment. These reductions were driven by an increase in the number of pharmacy closures, particularly among standalone establishments, while surviving establishments experienced modest improvements in market outcomes.
+<strong> Abstract: </strong> While policymakers routinely limit the sale of goods thought to be of risk to public health, relatively less is known about whether and how these policies affect firm performance. Using 2000-2018 National Establishment Time-Series data and a difference-in-differences strategy, we show that state "pill mill" laws intended to reduce the overprescribing of opioids reduced retail pharmacy sales and employment. These reductions were most pronounced in highly competitive areas and for standalone pharmacies – two characteristics associated with pharmacy drug diversion. Meanwhile, pharmacies located across the border in states without a pill mill law experienced increases in sales and employment. Next, we show that state pill mill laws were associated with an increase in standalone pharmacy closures, though the total number of pharmacies was unchanged. Our results are consistent with these laws adversely affecting pharmacies filling inappropriate opioid prescriptions without meaningfully altering patient access to retail pharmacies.
 
 <br/>
 <br/>
