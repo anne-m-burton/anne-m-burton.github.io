@@ -4,7 +4,7 @@ title: Code
 description: Anne M. Burton's code
 ---
 
-This page contains links to code for my published and accepted papers. Code for ``Supply-Side Opioid Restrictions and the Retail Pharmacy Market'' will be available soon.
+This page contains links to code for my published and accepted papers. Code for "Supply-Side Opioid Restrictions and the Retail Pharmacy Market" will be available soon.
 
 ### Publications ###
 
