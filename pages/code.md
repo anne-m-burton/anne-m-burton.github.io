@@ -33,7 +33,7 @@ with [David Wasser](https://www.davidnwasser.com/). Accepted at <i> Journal of P
 #### [The Impact of Smoking Bans in Bars on Alcohol Consumption and Smoking](https://annemburton.com/pages/working_papers/Burton_smoking_bans.pdf) 
 *Journal of Law and Economics*, 68(1): 183-214. 2025. [https://www.journals.uchicago.edu/doi/10.1086/731698](https://www.journals.uchicago.edu/doi/10.1086/731698)
 
-<strong> Link to code: </strong> 
+<strong> Link to code: </strong> Coming soon!
 
 
 <br/>
