@@ -17,7 +17,9 @@ with [Travis Roach](https://www.travisroach.xyz/)
 <br/>
 <br/>
 
-##### The Impact of Mandatory Testing of Newly Collected Rape Kits on Incarceration for Rape Convictions (draft or abstract available upon request)
+#### The Impact of Mandatory Testing of Newly Collected Rape Kits on Incarceration for Rape Convictions 
+
+###### (draft or abstract available upon request)
 
 <br/>
 <br/>
