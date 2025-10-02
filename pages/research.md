@@ -17,13 +17,13 @@ with [Travis Roach](https://www.travisroach.xyz/)
 <br/>
 <br/>
 
-#### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/burton_2nd_year_paper_2021_08_20.pdf)
-
-<strong> Abstract: </strong> This paper investigates whether Uber and Lyft lead to reductions in drunk driving, as measured by city-level drunk-driver-related motor vehicle fatalities and fatal crashes. I use a difference-in-differences method that exploits the variation in the timing of Uber and Lyft entry for the 100 most populous U.S. cities and a Poisson model to account for the fact that crashes and fatalities are count data. Using monthly city-level Fatality Analysis Reporting System (FARS) data for 2006 to 2016, I find small declines in drunk-driver-related fatal motor vehicle incidents and small increases in overall fatal motor vehicle incidents, but I cannot reject the null hypothesis of no effect of Uber or Lyft on these outcomes. Event studies suggest that drunk-driver-related and overall fatal motor vehicle incidents decline several years after the entry of Uber or Lyft into a city.
+##### The Impact of Mandatory Testing of Newly Collected Rape Kits on Incarceration for Rape Convictions (draft or abstract available upon request)
 
 <br/>
 <br/>
 <br/>
+
+
 
 ### Publications ###
 
@@ -68,15 +68,22 @@ with [David Wasser](https://www.davidnwasser.com/). <i>Journal of Public Economi
 
 <br/>
 
-##### The Impact of Ending the Rape-Kit Backlog on Sexual Assaults, Arrests, and Convictions
-
-<br/>
-
 ##### Fine Particulate Matter Pollution and Domestic Violence (with [Travis Roach](https://www.travisroach.xyz/))
 
 <br/>
 
 ##### The Effect of Moderate Increases in Alcohol Consumption on Crime: Evidence from Smoking Bans
+
+<br/>
+<br/>
+<br/>
+
+### Probable Resting Paper ###
+<br/>
+
+#### [Do Uber and Lyft Reduce Drunk-Driving Fatalities?](https://annemburton.com/pages/working_papers/burton_2nd_year_paper_2021_08_20.pdf)
+
+<strong> Abstract: </strong> This paper investigates whether Uber and Lyft lead to reductions in drunk driving, as measured by city-level drunk-driver-related motor vehicle fatalities and fatal crashes. I use a difference-in-differences method that exploits the variation in the timing of Uber and Lyft entry for the 100 most populous U.S. cities and a Poisson model to account for the fact that crashes and fatalities are count data. Using monthly city-level Fatality Analysis Reporting System (FARS) data for 2006 to 2016, I find small declines in drunk-driver-related fatal motor vehicle incidents and small increases in overall fatal motor vehicle incidents, but I cannot reject the null hypothesis of no effect of Uber or Lyft on these outcomes. Event studies suggest that drunk-driver-related and overall fatal motor vehicle incidents decline several years after the entry of Uber or Lyft into a city.
 
 <br/>
 
