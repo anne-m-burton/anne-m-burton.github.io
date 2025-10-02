@@ -21,7 +21,7 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/). Accepted at <i> Jour
 
 #### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
 
-with [David Wasser](https://www.davidnwasser.com/). Accepted at <i> Journal of Public Economics. </i>
+with [David Wasser](https://www.davidnwasser.com/). *Journal of Public Economics*, 250: 105473. 2025. [https://doi.org/10.1016/j.jpubeco.2025.105473](https://doi.org/10.1016/j.jpubeco.2025.105473)
 
 <strong> Link to replication package: </strong> [https://github.com/dwasser/burton-wasser-BTB-JPubE](https://github.com/dwasser/burton-wasser-BTB-JPubE)
 
