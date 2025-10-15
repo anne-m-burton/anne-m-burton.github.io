@@ -11,7 +11,7 @@ This page contains links to code for my published and accepted papers. Code for 
 
 #### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-PillMills-2025-09-17.pdf)
 
-with [Brandyn F. Churchill](https://brandynchurchill.com/). Accepted at <i> Journal of Health Economics. </i>
+with [Brandyn F. Churchill](https://brandynchurchill.com/). <i>Journal of Health Economics</i>, 104: 103071. 2025. [https://doi.org/10.1016/j.jhealeco.2025.103071](https://doi.org/10.1016/j.jhealeco.2025.103071)
 
 <strong> Link to replication package: </strong> Coming soon!
 
