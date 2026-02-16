@@ -4,8 +4,18 @@ title: Code
 description: Anne M. Burton's code
 ---
 
-This page contains links to code for my published and accepted papers. Code for "Supply-Side Opioid Restrictions and the Retail Pharmacy Market" will be available soon.
+This page contains links to code for my published and accepted papers.
 
+<br/>
+<br/>
+
+#### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
+
+with [Travis Roach](https://www.travisroach.xyz). Accepted at <i>Journal of Environmental Economics and Management</i>.
+
+<strong> Link to replication package: </strong> Coming soon!
+
+<br/>
 <br/>
 <br/>
 
