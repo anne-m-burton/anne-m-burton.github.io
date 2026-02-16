@@ -6,17 +6,6 @@ description: Anne M. Burton's research
 ### Working Papers ###
 <br/>
 
-#### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
-
-with [Travis Roach](https://www.travisroach.xyz/)
-###### Revise and Resubmit at <i> Journal of Environmental Economics and Management </i>
-
-<strong> Abstract: </strong> Mounting causal evidence shows particulate matter pollution reduces real-time cognitive function and increases aggressive behavior by reducing neural connectivity through oxidative stress and neuro-inflammation. We investigate a setting in which reduced cognition can generate significant private and external costs: driving. Using exogenous variation in wind direction, we show that higher PM2.5 exposure results in more fatal car crashes and fatalities. Further, only same-day pollution exposure increases accidents and fatalities, highlighting the immediate negative effects of high-pollution days. An across-the-board one standard deviation reduction in fine particulate matter pollution would have averted over 2,800 motor vehicle fatalities in 2019.
-
-<br/>
-<br/>
-<br/>
-
 #### The Impact of Mandatory Testing of Newly Collected Rape Kits on Incarceration for Rape Convictions 
 
 ###### Draft or abstract available upon request
@@ -30,6 +19,17 @@ with [Travis Roach](https://www.travisroach.xyz/)
 ### Publications ###
 
 <br/>
+
+#### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
+
+with [Travis Roach](https://www.travisroach.xyz/). Accepted at at <i> Journal of Environmental Economics and Management </i>
+
+<strong> Abstract: </strong> Mounting causal evidence shows particulate matter pollution reduces real-time cognitive function and increases aggressive behavior by reducing neural connectivity through oxidative stress and neuro-inflammation. We investigate a setting in which reduced cognition can generate significant private and external costs: driving. Using exogenous variation in wind direction, we show that a one-unit increase in PM2.5 exposure results in just under a one-percent increase in fatal car crashes and fatalities. Further, these effects are limited to same-day pollution exposure, highlighting the immediate negative effects of high-pollution days. An across-the-board one standard deviation reduction in fine particulate matter pollution would have averted nearly 2,000 motor vehicle fatalities in 2019.
+
+<br/>
+<br/>
+<br/>
+
 
 #### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-PillMills-2025-09-17.pdf)
 
