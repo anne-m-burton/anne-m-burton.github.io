@@ -41,7 +41,7 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/). <i> Journal of Healt
 <br/>
 <br/>
 
-#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_BTB.pdf)
+#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_JPUBEC-105473.pdf)
 
 with [David Wasser](https://www.davidnwasser.com/). <i>Journal of Public Economics</i>, 250: 105473. 2025. [https://doi.org/10.1016/j.jpubeco.2025.105473](https://doi.org/10.1016/j.jpubeco.2025.105473)
 
