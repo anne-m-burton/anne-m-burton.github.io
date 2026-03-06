@@ -11,7 +11,7 @@ This page contains links to code for my published and accepted papers.
 
 #### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
 
-with [Travis Roach](https://www.travisroach.xyz). Accepted at <i>Journal of Environmental Economics and Management</i>.
+with [Travis Roach](https://www.travisroach.xyz). <i>Journal of Environmental Economics and Management</i>, 138: 103310. 2026. [https://doi.org/10.1016/j.jeem.2026.103310](https://doi.org/10.1016/j.jeem.2026.103310)
 
 <strong> Link to replication package: </strong> Coming soon!
 
