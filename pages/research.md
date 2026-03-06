@@ -22,7 +22,7 @@ description: Anne M. Burton's research
 
 #### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
 
-with [Travis Roach](https://www.travisroach.xyz/). <i> Journal of Environmental Economics and Management </i>, 138: 103310. 2026. [https://doi.org/10.1016/j.jeem.2026.103310](https://doi.org/10.1016/j.jeem.2026.103310)
+with [Travis Roach](https://www.travisroach.xyz/). <i> Journal of Environmental Economics and Management</i>, 138: 103310. 2026. [https://doi.org/10.1016/j.jeem.2026.103310](https://doi.org/10.1016/j.jeem.2026.103310)
 
 <strong> Abstract: </strong> Mounting causal evidence shows particulate matter pollution reduces real-time cognitive function and increases aggressive behavior by reducing neural connectivity through oxidative stress and neuro-inflammation. We investigate a setting in which reduced cognition can generate significant private and external costs: driving. Using exogenous variation in wind direction, we show that a one-unit increase in PM2.5 exposure results in just under a one-percent increase in fatal car crashes and fatalities. Further, these effects are limited to same-day pollution exposure, highlighting the immediate negative effects of high-pollution days. An across-the-board one standard deviation reduction in fine particulate matter pollution would have averted nearly 2,000 motor vehicle fatalities in 2019.
 
