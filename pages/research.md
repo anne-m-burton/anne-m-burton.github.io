@@ -31,7 +31,7 @@ with [Travis Roach](https://www.travisroach.xyz/). <i> Journal of Environmental 
 <br/>
 
 
-#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/BC-PillMills-2025-09-17.pdf)
+#### [Supply-Side Opioid Restrictions and the Retail Pharmacy Market](https://annemburton.com/pages/working_papers/Burton_Churchill_JHE_103071.pdf)
 
 with [Brandyn F. Churchill](https://brandynchurchill.com/). <i> Journal of Health Economics</i>, 104: 103071. 2025. [https://doi.org/10.1016/j.jhealeco.2025.103071](https://doi.org/10.1016/j.jhealeco.2025.103071)
 
@@ -41,7 +41,7 @@ with [Brandyn F. Churchill](https://brandynchurchill.com/). <i> Journal of Healt
 <br/>
 <br/>
 
-#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_JPUBEC-105473.pdf)
+#### [Revisiting the Unintended Consequences of Ban the Box](https://annemburton.com/pages/working_papers/Burton_Wasser_JPUBEC_105473.pdf)
 
 with [David Wasser](https://www.davidnwasser.com/). <i>Journal of Public Economics</i>, 250: 105473. 2025. [https://doi.org/10.1016/j.jpubeco.2025.105473](https://doi.org/10.1016/j.jpubeco.2025.105473)
 
