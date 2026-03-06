@@ -20,7 +20,7 @@ description: Anne M. Burton's research
 
 <br/>
 
-#### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_pollution.pdf)
+#### [Negative Externalities of Temporary Reductions in Cognition: Evidence from Particulate Matter Pollution and Fatal Car Crashes](https://annemburton.com/pages/working_papers/Burton_Roach_JEEM_103310.pdf)
 
 with [Travis Roach](https://www.travisroach.xyz/). <i> Journal of Environmental Economics and Management</i>, 138: 103310. 2026. [https://doi.org/10.1016/j.jeem.2026.103310](https://doi.org/10.1016/j.jeem.2026.103310)
 
