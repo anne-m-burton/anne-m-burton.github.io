@@ -6,6 +6,12 @@ description: Anne M. Burton's research
 ### Working Papers ###
 <br/>
 
+#### Fine Particulate Matter Pollution and Domestic Violence (with [Travis Roach](https://www.travisroach.xyz/))
+
+###### Draft or abstract available upon request
+
+<br/>
+
 #### The Impact of Mandatory Testing of Newly Collected Rape Kits on Incarceration for Rape Convictions 
 
 ###### Draft or abstract available upon request
@@ -67,10 +73,6 @@ with [David Wasser](https://www.davidnwasser.com/). <i>Journal of Public Economi
 <br/>
 
 ### Selected Works in Progress ###
-
-<br/>
-
-##### Fine Particulate Matter Pollution and Domestic Violence (with [Travis Roach](https://www.travisroach.xyz/))
 
 <br/>
 
